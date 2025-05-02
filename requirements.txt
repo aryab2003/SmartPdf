@@ -1,0 +1,6 @@
+streamlit==1.18.0
+langchain_community==0.0.4
+langchain_text_splitters==0.0.3
+langchain_ollama==0.0.1
+faiss-cpu==1.7.2
+requests==2.26.0
